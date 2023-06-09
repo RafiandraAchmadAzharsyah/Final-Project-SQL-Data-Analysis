@@ -249,9 +249,7 @@ limit 3
 
 	Please explain your findings and interpretation of the results:
 	
-Yes, there's correlation, more reviews will get a more fans. 
-Because as you can see, the higher average number review 
-it will get the higher average number of fans as well
+Yes, there is a correlation. More reviews will attract more fans because, as you can see, a higher average number of reviews will also result in a higher average number of fans.
 	
 	SQL code used to arrive at answer:
 
